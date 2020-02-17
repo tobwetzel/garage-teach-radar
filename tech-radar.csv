@@ -1,0 +1,8 @@
+﻿name;quadrant;ring;isNew;description
+Test-driven development;Techniques;Adopt;FALSE;
+Pair programming;Techniques;Adopt;FALSE;
+Openshift;Platforms;Adopt;TRUE;
+Cypress;languages-and-frameworks;Trial;TRUE;
+Vue.js;languages-and-frameworks;Assess;TRUE;
+Cloud Foundry;Platforms;Hold;FALSE;
+Postman;Tools;Adopt;FALSE;
